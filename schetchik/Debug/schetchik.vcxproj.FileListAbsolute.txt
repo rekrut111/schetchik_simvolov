@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\schetchik\Debug\schetchik.exe
+C:\Users\admin\source\repos\schetchik\Debug\schetchik.pdb
